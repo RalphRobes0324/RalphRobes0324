@@ -10,40 +10,15 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 - **Advanced Diploma in Computer Engineering Technology**
   Humber College, 2020 - 2023
 
-## Top Scripting and Tools I use
-### 📄 Scripting Languages
-- 🖥️ C
-- 💻 C++
-- 🕹️ C#
-- ☕ Java
-- 🐍 Python
+## Top Scripting and Tools I Use
+| Scripting | Game Engines    |    IDEs                      | Micro-controllers |  Database   | Others             |          
+| ---    |          ---       | ---                          |  ---              |   ---       | ---                |
+|  C     | Unity              | Visual Studio Code/Community | Raspberry Pi      | PostgreSQL  | Firebase           |
+| C++    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  MySql      | Git/Github Desktop |
+| C#     | SDL & OpenGL       | Netbeans                     | ATMega328P        | -           | Blender            |
+| Java   | GameMaker Studio 2 | Android Studios              |     -             | -           |  -           |
+| Python | Vulkan             | BlueJ                        |     -             |  -          | -           |
 
-### 🖥️ IDEs
-- Visual Studio Code/Community
-- Code::Blocks
-- Netbeans
-- Android Studios
-- BlueJ
-
-## 🎮 Game Engines
-- Unity
-- Unreal Engine
-- SDL & OpenGL
-
-### Database Tools
-- 🐘 PostgreSQL
-- 📊 MySql
-
-### 💽 Micro-controllers
-- Raspberry Pi
-- Arduino
-- ATMega328P
-
-### Others
-- Firebase
-- Git/Github Desktop
-- Blender
-- Cisco Packet Tracer
 
 ## Top Projects
 ### Project 1
