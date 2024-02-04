@@ -16,15 +16,14 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 |  C     | Unity              | Visual Studio Code/Community | Raspberry Pi      | PostgreSQL  | Firebase           |
 | C++    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  MySql      | Git/Github Desktop |
 | C#     | SDL & OpenGL       | Netbeans                     | ATMega328P        | -           | Blender            |
-| Java   | GameMaker Studio 2 | Android Studios              |     -             | -           |  -           |
-| Python | Vulkan             | BlueJ                        |     -             |  -          | -           |
-
+| Java   | GameMaker Studio 2 | Android Studios              |     -             | -           |  Soldering           |
+| Python | Vulkan             | BlueJ                        |     -             |  -          |  PCB Building |
 
 ## Top Projects
-### Project 1
+### Project 1: In On The Joke...?
 In On The Joke...? (https://globalgamejam.org/games/2024/joke-2): Global Game Jam is a 48-hour competition where participants create games with predetermined themes. This year's theme was "Make Me Laugh", and it inspired the creation of our game "In On The Joke...?".
 
-### Project 2
+### Project 2: Gear 5
 Gear 5 (https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html): The Humber Final Year Capstone project is this one. We were given two semesters to build the hardware, create the app, and release it publicly. Our team created an app that lets users track their progress use it as a wireless controller, and create a portable arcade machine.
 
 ## Contact
