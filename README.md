@@ -11,7 +11,7 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
   Humber College, 2020 - 2023
 
 ## Top Scripting and Tools I Use
-| Scripting | Game Engines    |    IDEs                      | Micro-controllers |  Database   | Others             |          
+| 📄 Scripting | 🕹️ Game Engines    |    🖥️ IDEs                      | 🖱️ Micro-controllers |  📊 Database   | ⚒️ Others             |          
 | ---    |          ---       | ---                          |  ---              |   ---       | ---                |
 |  C     | Unity              | Visual Studio Code/Community | Raspberry Pi      | PostgreSQL  | Firebase           |
 | C++    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  MySql      | Git/Github Desktop |
