@@ -16,7 +16,7 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 |  C     | Unity              | Visual Studio Code/Community | Raspberry Pi      | PostgreSQL  | Firebase           |
 | C++    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  MySql      | Git/Github Desktop |
 | C#     | SDL & OpenGL       | Netbeans                     | ATMega328P        | -           | Blender            |
-| Java   | GameMaker Studio 2 | Android Studios              |     -             | -           |  Soldering           |
+| Java   | GameMaker Studio 2 | Android Studios              |     -             | -           |  Soldering/Laser Cutting|
 | Python | Vulkan             | BlueJ                        |     -             |  -          |  PCB Building |
 
 ## Top Projects
