@@ -24,7 +24,7 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 In On The Joke...? (https://globalgamejam.org/games/2024/joke-2): Global Game Jam is a 48-hour competition where participants create games with predetermined themes. This year's theme was "Make Me Laugh", and it inspired the creation of our game "In On The Joke...?".
 
 ### Project 2: Gear 5
-Gear 5 (https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html): The Humber Final Year Capstone project is this one. We were given two semesters to build the hardware, create the app, and release it public. Our team created an app that lets users track their progress use it as a wireless controller, and create a portable arcade machine.
+Gear 5 (https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html): This is Humber's Final Year Capstone Project and we were given two semesters to build the hardware, create the app, and release it public. Our group designed the hardware for the portable arcade machine, as well as an app that allows users to track their progress and use it as a wireless controller. This project blends hardware and software seamlessly, showcasing innovation and dedication from conception to public release.
 
 ## Contact
 - Email: ralphbrianrobes@gmail.com
