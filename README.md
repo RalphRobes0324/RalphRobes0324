@@ -27,7 +27,6 @@ In On The Joke...? (https://globalgamejam.org/games/2024/joke-2): Global Game Ja
 Gear 5 (https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html): This is Humber's Final Year Capstone Project and we were given two semesters to build the hardware, create the app, and release it public. Our group designed the hardware for the portable arcade machine, as well as an app that allows users to track their progress and use it as a wireless controller.
 
 ## Contact
-- Email: ralphbrianrobes@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/ralph-robes/)
 
 Feel free to explore my projects and get in touch! 🚀
