@@ -1,5 +1,5 @@
 # About Me 👨‍💻
-Hello there! 👋 I'm Ralph Robes, an aspiring  Software Developer, Game Programmer, and  IT Technician. As a student, I am embracing the fascinating field of game programming. With a degree in Computer Engineering Technology, I am passionate about coming up with original ideas and engaging gaming environments.
+Hello there! 👋 I'm Ralph Robes, an aspiring  Software Developer, Game Developer, and  IT Technician. As a student, I am embracing the fascinating field of game programming. With a degree in Computer Engineering Technology, I am passionate about coming up with original ideas and engaging gaming environments.
 
 I take great pride in my ability to be highly flexible and adaptive, constantly willing to take on new tasks and pick up new skills.
 
