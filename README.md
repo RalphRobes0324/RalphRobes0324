@@ -15,9 +15,9 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 | ---    |          ---       | ---                          |  ---              |   ---       | ---                |
 |  C     | Unity              | Visual Studio Code/Community | Raspberry Pi      | PostgreSQL  | Firebase           |
 | C++    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  MySql      | Git/Github Desktop |
-| C#     | SDL & OpenGL       | Netbeans                     | ATMega328P        | -           | Blender            |
-| Java   | GameMaker Studio 2 | Android Studios              |     -             | -           | Fritz |
-| Python | Vulkan             | BlueJ                        |     -             |  -          |  Cisco Packet Tracer |
+| C#     | GameMaker Studio 2 | Netbeans                     | ATMega328P        | -           | Blender            |
+| Java   |                    | Android Studios              |     -             | -           | Fritz |
+| Python |                    | BlueJ                        |     -             |  -          |  Cisco Packet Tracer |
 
 ## Top Projects
 ### Project 1: In On The Joke...?
