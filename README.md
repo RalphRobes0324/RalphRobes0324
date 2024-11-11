@@ -20,10 +20,13 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 | Python |                    | BlueJ                        |     -             |  -          |  Cisco Packet Tracer |
 
 ## Top Projects
-### Project 1: In On The Joke...?
+### Project 1: AR Battleship
+In On The Joke...? (https://github.com/RalphRobes0324/AR_Battleship): The project for Humber College is to develop a mobile augmented reality game.
+
+### Project 2: In On The Joke...?
 In On The Joke...? (https://globalgamejam.org/games/2024/joke-2): Global Game Jam is a 48-hour competition where participants create games with predetermined themes. This year's theme was "Make Me Laugh", and it inspired the creation of our game "In On The Joke...?".
 
-### Project 2: Gear 5
+### Project 3: Gear 5
 Gear 5 (https://appliedtechnology.humber.ca/shows/advanced-manufacturing-projects-2023/projects/portable-arcade-machine-gear5.html): This is Humber's Final Year Capstone Project and we were given two semesters to build the hardware, create the app, and release it public. Our group designed the hardware for the portable arcade machine, as well as an app that allows users to track their progress and use it as a wireless controller.
 
 ## Contact
