@@ -11,12 +11,12 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
   Humber College, 2020 - 2023
 
 ## Top Scripting and Tools I Use
-| 📄 Scripting | 🕹️ Game Engines    |    🖥️ IDEs                      | 🖱️ Micro-controllers |  📊 Database   | ⚒️ Others             |          
+| 📄 Scripting | 🕹️ Game Engines    |    🖥️ IDEs                      | 🖱️ Micro-controllers |  API  | ⚒️ Others             |          
 | ---    |          ---       | ---                          |  ---              |   ---       | ---                |
-| C++     | Unity              | Visual Studio Code/Community | Raspberry Pi      | PostgreSQL  | 3ds Max 2024           |
-| C#    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  MySql      | Git |
-| C     | GameMaker Studio 2 | Netbeans                     | ATMega328P        | -           | Blender            |
-| Java   | OpenGL & SDL                   | Android Studios              |     -             | -           | Substance Painter |
+| C++     | Unity              | Visual Studio Code/Community | Raspberry Pi      | OpenGL  | 3ds Max 2024           |
+| C#    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  Vulkan      | Git |
+| C     | GameMaker Studio 2 | Netbeans                     | ATMega328P        | SDL2           | Blender            |
+| Java   |  -                | Android Studios              |     -             |            | Substance Painter |
 | Python |                    | BlueJ                        |     -             |  -          |  Cisco Packet Tracer |
 
 ## Top Projects
