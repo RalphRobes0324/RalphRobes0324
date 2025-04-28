@@ -16,8 +16,8 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 | C++     | Unity              | Visual Studio Code/Community | Raspberry Pi      | OpenGL  | 3ds Max 2024           |
 | C#    | Unreal Engine 5    | Code::Blocks                 | Arduino           |  Vulkan      | Git |
 | C     | GameMaker Studio 2 | Netbeans                     | ATMega328P        | SDL2           | Blender            |
-| Java   |  -                | Android Studios              |     -             |            | Substance Painter |
-| Python |                    | BlueJ                        |     -             |  -          |  Cisco Packet Tracer |
+| Java   |  -                | Android Studios              |     -             |   -         | Substance Painter |
+| Python |      -              | BlueJ                        |     -             |  -          |  Cisco Packet Tracer |
 
 ## Top Projects
 ### Project 1: AR Battleship
