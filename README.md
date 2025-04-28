@@ -11,7 +11,7 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
   Humber College, 2020 - 2023
 
 ## Top Scripting and Tools I Use
-| 📄 Scripting | 🕹️ Game Engines    |    🖥️ IDEs                      | API(s)Framework(s) |🖱️ Micro-controllers  | ⚒️ Others             |          
+| 📄 Scripting | 🕹️ Game Engines    |    🖥️ IDEs                      | API(s)/Framework(s) |🖱️ Micro-controllers  | ⚒️ Others             |          
 | ---    |          ---       | ---                          | --- |---                  | ---                |
 | C++     | Unity              | Visual Studio Code/Community | SDL/SDL2 |Raspberry Pi       | 3ds Max 2024           |
 | C#    | Unreal Engine 5    | Code::Blocks                 | OpenGL | Arduino                | Git |
