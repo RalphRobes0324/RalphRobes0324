@@ -13,11 +13,11 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 ## Top Scripting and Tools I Use
 | 📄 Scripting | 🕹️ Game Engines    |    🖥️ IDEs                      | API(s)/Framework(s) |🖱️ Micro-controllers  | ⚒️ Others             |          
 | ---    |          ---       | ---                          | --- |---                  | ---                |
-| C++     | Unity              | Visual Studio Code/Community | SDL/SDL2 |Raspberry Pi       | 3ds Max 2024           |
-| C#    | Unreal Engine 5    | Code::Blocks                 | OpenGL | Arduino                | Git |
-| C     | GameMaker Studio 2 | Netbeans                     | Vulkan |ATMega328P        | Blender            |
-| Java   |  -                | Android Studios              |  -   |-                     | Substance Painter |
-| Python |      -              | BlueJ                        | - |    -                      |  Cisco Packet Tracer |
+| C++     | Unreal Engine 5             | Visual Studio Code/Community | SDL/SDL2/SDL3 |Raspberry Pi       | 3ds Max 2024           |
+| C#    |  Unity |      Rider            | OpenGL | Arduino                | Git |
+| C     | GameMaker Studio 2 |     Code::Blocks                | Vulkan |ATMega328P        | Blender            |
+| Java   |  -                |     Netbeans         |  -   |-                     | Substance Painter |
+| Python |      -              |    Android Studios                    | - |    -                      |  Cisco Packet Tracer |
 
 ## Top Projects
 ### Project 1: AR Battleship
