@@ -21,7 +21,7 @@ I take great pride in my ability to be highly flexible and adaptive, constantly 
 
 ## Top Projects
 ### Project 1: AR Battleship
-In On The Joke...? (https://github.com/RalphRobes0324/AR_Battleship): The project for Humber College is to develop a mobile augmented reality game.
+AR Battleship (https://github.com/RalphRobes0324/AR_Battleship): The project for Humber College is to develop a mobile augmented reality game.
 
 ### Project 2: In On The Joke...?
 In On The Joke...? (https://globalgamejam.org/games/2024/joke-2): Global Game Jam is a 48-hour competition where participants create games with predetermined themes. This year's theme was "Make Me Laugh", and it inspired the creation of our game "In On The Joke...?".
